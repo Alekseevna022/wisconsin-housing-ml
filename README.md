@@ -67,6 +67,6 @@ pandas, numpy — обработка данных
 matplotlib — визуализация
 scikit-learn — модели машинного обучения (LinearRegression, LogisticRegression, DecisionTreeClassifier, StandardScaler, train_test_split, метрики)
 Как запустить
-Скачать датасет по ссылке выше
-Установить зависимости: pip install -r requirements.txt
-Открыть wisconsin_housing_ml.ipynb и выполнить ячейки по порядку
+1. Скачать датасет по ссылке выше
+2. Установить зависимости: pip install -r requirements.txt
+3. Открыть wisconsin_housing_ml.ipynb и выполнить ячейки по порядку
